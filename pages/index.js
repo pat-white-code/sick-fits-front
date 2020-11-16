@@ -5,9 +5,6 @@ const Home = props => (
     <h1>
       Hey There!
     </h1>
-    <Link href='/sell'>
-      <a>Sell</a>
-    </Link>
   </div>
 )
 
